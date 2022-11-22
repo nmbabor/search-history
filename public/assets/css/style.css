@@ -1,0 +1,20 @@
+.no-margin{margin:0 !important;}
+.no-padding{padding:0 !important;}
+.cursor-pointer{cursor:pointer}
+.search-button{cursor:pointer;}
+.search-button:hover{background: #ddd;}
+.search-button:active{background: #ccc;}
+.mb-5{margin-bottom: 5px;}
+.mb-10{margin-bottom: 10px;}
+.form-group{margin-bottom: 10px;}
+.list-group-item{padding: 3px 10px;}
+.border{border:1px solid #ddd}
+.input-group-addon{
+    background: #eee;
+    padding: 5px 15px;
+    line-height: 25px;
+    border: 1px solid #ddd;
+}
+.form-control{background: #fff;}
+.form-control:focus{background: #fff}
+#filter-form{height: 480px;overflow-y:scroll;padding: 5px 10px;}
